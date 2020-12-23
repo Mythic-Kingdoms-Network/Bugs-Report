@@ -21,6 +21,7 @@ Steps to reproduce the behavior:
 If applicable, add screenshots to help explain your problem.
 
 **Requirements:**
+- Modpack: [e.g: Eternal Armaggedon]
  - Modpack Version: [e.g: 1.3-BETA, 1.4.1-BETA]
  - Java Version [e.g. 1.8_251]
  - Launcher[e.g. Twitch, Technic Launcher]
